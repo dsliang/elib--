@@ -1,0 +1,982 @@
+{
+  "assist": [
+    {
+      "subIndex": "gyrj",
+      "subtitle": "关于软件",
+      "menuItems": [
+        {
+          "index": "/welcome",
+          "name": "关于软件",
+          "belong": "gyrj"
+        }
+      ]
+    },
+    {
+      "subIndex": "marcbz",
+      "subtitle": "MARC帮助",
+      "menuItems": [
+        {
+          "index": "/assist/cnmarcbz",
+          "name": "CNMARC帮助",
+          "belong": "marcbz"
+        },
+        {
+          "index": "/assist/marc21bz",
+          "name": "MARC21帮助",
+          "belong": "marcbz"
+        }
+      ]
+    },
+    {
+      "subIndex": "rjsysc",
+      "subtitle": "软件使用手册",
+      "menuItems": [
+        {
+          "index": "/assist/rjsysc",
+          "name": "软件使用手册",
+          "belong": "rjsysc"
+        }
+      ]
+    }
+  ],
+  "breservation": [
+    {
+      "subIndex": "dctj",
+      "subtitle": "典藏统计",
+      "menuItems": [
+        {
+          "index": "/breservation/gcqd",
+          "name": "馆藏清单",
+          "belong": "dctj"
+        },
+        {
+          "index": "/breservation/gcfltj",
+          "name": "馆藏分类统计",
+          "belong": "dctj"
+        },
+        {
+          "index": "/breservation/gctj",
+          "name": "馆藏统计",
+          "belong": "dctj"
+        },
+        {
+          "index": "/breservation/gcsmqd",
+          "name": "馆藏书目清单",
+          "belong": "dctj"
+        }
+      ]
+    },
+    {
+      "subIndex": "gcgl",
+      "subtitle": "馆藏管理",
+      "menuItems": [
+        {
+          "index": "/breservation/rcdj",
+          "name": "入藏登记",
+          "belong": "gcgl"
+        },
+        {
+          "index": "/breservation/rcpdj",
+          "name": "入藏批登记",
+          "belong": "gcgl"
+        },
+        {
+          "index": "/breservation/gcztcl",
+          "name": "馆藏状态处理",
+          "belong": "gcgl"
+        },
+        {
+          "index": "/breservation/gcztpcl",
+          "name": "馆藏状态批处理",
+          "belong": "gcgl"
+        },
+        {
+          "index": "/breservation/czbg",
+          "name": "藏址变更",
+          "belong": "gcgl"
+        },
+        {
+          "index": "/breservation/czpbg",
+          "name": "藏址批变更",
+          "belong": "gcgl"
+        },
+        {
+          "index": "/breservation/tmgh",
+          "name": "条码更换",
+          "belong": "gcgl"
+        }
+      ]
+    },
+    {
+      "subIndex": "pcgl",
+      "subtitle": "批次管理",
+      "menuItems": [
+        {
+          "index": "/breservation/dcpc",
+          "name": "典藏批次",
+          "belong": "pcgl"
+        },
+        {
+          "index": "/breservation/pcqd",
+          "name": "批次清单",
+          "belong": "pcgl"
+        }
+      ]
+    },
+    {
+      "subIndex": "qdhtc",
+      "subtitle": "清点和剔除",
+      "menuItems": [
+        {
+          "index": "/breservation/csqd",
+          "name": "藏书清点",
+          "belong": "qdhtc"
+        },
+        {
+          "index": "/breservation/cspqd",
+          "name": "藏书批清点",
+          "belong": "qdhtc"
+        },
+        {
+          "index": "/breservation/qdrc",
+          "name": "清点入藏",
+          "belong": "qdhtc"
+        },
+        {
+          "index": "/breservation/qdprc",
+          "name": "清点批入藏",
+          "belong": "qdhtc"
+        },
+        {
+          "index": "/breservation/gctc",
+          "name": "馆藏剔除",
+          "belong": "qdhtc"
+        }
+      ]
+    }
+  ],
+  "catalogue": [
+    {
+      "subIndex": "wxbm",
+      "subtitle": "文献编目",
+      "menuItems": [
+        {
+          "index": "/catalogue/bmgl",
+          "name": "编目管理",
+          "belong": "wxbm"
+        },
+        {
+          "index": "/catalogue/llbm",
+          "name": "浏览编目",
+          "belong": "wxbm"
+        },
+        {
+          "index": "/catalogue/zjbm",
+          "name": "直接编目",
+          "belong": "wxbm"
+        },
+        {
+          "index": "/catalogue/hsjk",
+          "name": "回溯建库",
+          "belong": "wxbm"
+        },
+        {
+          "index": "/catalogue/spbm",
+          "name": "双屏编目",
+          "belong": "wxbm"
+        }
+      ]
+    },
+    {
+      "subIndex": "wxys",
+      "subtitle": "文献移送",
+      "menuItems": [
+        {
+          "index": "/catalogue/yscl",
+          "name": "移送处理",
+          "belong": "wxys"
+        }
+      ]
+    },
+    {
+      "subIndex": "bmtj",
+      "subtitle": "编目统计",
+      "menuItems": [
+        {
+          "index": "/catalogue/sbdy",
+          "name": "书标打印",
+          "belong": "bmtj"
+        },
+        {
+          "index": "/catalogue/bmtj",
+          "name": "编目统计",
+          "belong": "bmtj"
+        }
+      ]
+    }
+  ],
+  "circulate": [
+    {
+      "subIndex": "wxlt",
+      "subtitle": "文献流通",
+      "menuItems": [
+        {
+          "index": "/circulate/cqgl",
+          "name": "超期管理",
+          "belong": "wxlt"
+        },
+        {
+          "index": "/circulate/dsgl",
+          "name": "丢失管理",
+          "belong": "wxlt"
+        },
+        {
+          "index": "/circulate/fkgl",
+          "name": "罚款管理",
+          "belong": "wxlt"
+        },
+        {
+          "index": "/circulate/jhgl",
+          "name": "借还管理",
+          "belong": "wxlt"
+        },
+        {
+          "index": "/circulate/tjjh",
+          "name": "脱机借还",
+          "belong": "wxlt"
+        },
+        {
+          "index": "/circulate/tslt",
+          "name": "特殊流通",
+          "belong": "wxlt"
+        },
+        {
+          "index": "/circulate/wlgl",
+          "name": "物流管理",
+          "belong": "wxlt"
+        },
+        {
+          "index": "/circulate/wscl",
+          "name": "污损处理",
+          "belong": "wxlt"
+        },
+        {
+          "index": "/circulate/yjlb",
+          "name": "预借列表",
+          "belong": "wxlt"
+        },
+        {
+          "index": "/circulate/yqcl",
+          "name": "延期处理",
+          "belong": "wxlt"
+        },
+        {
+          "index": "/circulate/yygl",
+          "name": "预约管理",
+          "belong": "wxlt"
+        }
+      ]
+    },
+    {
+      "subIndex": "dzgl",
+      "subtitle": "读者管理",
+      "menuItems": [
+        {
+          "index": "/circulate/bzcstj",
+          "name": "办证次数统计",
+          "belong": "dzgl"
+        },
+        {
+          "index": "/circulate/dzdr",
+          "name": "读者导入",
+          "belong": "dzgl"
+        },
+        {
+          "index": "/circulate/dzgl",
+          "name": "读者管理",
+          "belong": "dzgl"
+        },
+        {
+          "index": "/circulate/dztpsc",
+          "name": "读者图片上传",
+          "belong": "dzgl"
+        },
+        {
+          "index": "/circulate/wtgl",
+          "name": "委托管理",
+          "belong": "dzgl"
+        }
+      ]
+    },
+    {
+      "subIndex": "ltcx",
+      "subtitle": "流通查询",
+      "menuItems": [
+        {
+          "index": "/circulate/dzjycx",
+          "name": "读者借阅查询",
+          "belong": "ltcx"
+        },
+        {
+          "index": "/circulate/dzjylscx",
+          "name": "读者借阅历史查询",
+          "belong": "ltcx"
+        },
+        {
+          "index": "/circulate/wxjycx",
+          "name": "文献借阅查询",
+          "belong": "ltcx"
+        },
+        {
+          "index": "/circulate/wxjylscx",
+          "name": "文献借阅历史查询",
+          "belong": "ltcx"
+        }
+      ]
+    },
+    {
+      "subIndex": "lttj",
+      "subtitle": "流通统计",
+      "menuItems": [
+        {
+          "index": "/circulate/dwjhtj",
+          "name": "单位借还统计",
+          "belong": "lttj"
+        },
+        {
+          "index": "/circulate/dzjhtj",
+          "name": "读者借还统计",
+          "belong": "lttj"
+        },
+        {
+          "index": "/circulate/dzjyphb",
+          "name": "读者借阅排行榜",
+          "belong": "lttj"
+        },
+        {
+          "index": "/circulate/dzlxjhtj",
+          "name": "读者类型借还统计",
+          "belong": "lttj"
+        },
+        {
+          "index": "/circulate/jhrstj",
+          "name": "借还人数统计",
+          "belong": "lttj"
+        },
+        {
+          "index": "/circulate/ltxd",
+          "name": "流通详单",
+          "belong": "lttj"
+        },
+        {
+          "index": "/circulate/wxjyphb",
+          "name": "文献借阅排行榜",
+          "belong": "lttj"
+        },
+        {
+          "index": "/circulate/wxyyph",
+          "name": "文献预约排行",
+          "belong": "lttj"
+        },
+        {
+          "index": "/circulate/ysjyph",
+          "name": "验收借阅排行",
+          "belong": "lttj"
+        }
+      ]
+    },
+    {
+      "subIndex": "cjgl",
+      "subtitle": "财经管理",
+      "menuItems": [
+        {
+          "index": "/circulate/cjlscx",
+          "name": "财经历史查询",
+          "belong": "cjgl"
+        },
+        {
+          "index": "/circulate/sktj",
+          "name": "收款统计",
+          "belong": "cjgl"
+        }
+      ]
+    }
+  ],
+  "feature": [
+    {
+      "subIndex": "zxfw",
+      "subtitle": "MARC帮助",
+      "menuItems": [
+        {
+          "index": "/feature/ztkcs",
+          "name": "专题库参数",
+          "belong": "zxfw"
+        },
+        {
+          "index": "/feature/ztkgl",
+          "name": "专题库管理",
+          "belong": "zxfw"
+        },
+        {
+          "index": "/feature/ygqd",
+          "name": "义工签到",
+          "belong": "zxfw"
+        }
+      ]
+    },
+    {
+      "subIndex": "zxlt",
+      "subtitle": "专项流通",
+      "menuItems": [
+        {
+          "index": "/feature/zxjhgl",
+          "name": "专项借还管理",
+          "belong": "zxlt"
+        },
+        {
+          "index": "/feature/zxcqgl",
+          "name": "专项超期管理",
+          "belong": "zxlt"
+        },
+        {
+          "index": "/feature/zxfkgl",
+          "name": "专项罚款管理",
+          "belong": "zxlt"
+        },
+        {
+          "index": "/feature/zxyqgl",
+          "name": "专项延期管理",
+          "belong": "zxlt"
+        }
+      ]
+    }
+  ],
+  "interview": [
+    {
+      "subIndex": "zdgl",
+      "subtitle": "征订管理",
+      "menuItems": [
+        {
+          "index": "/interview/zdpcgl",
+          "name": "征订批次管理",
+          "belong": "zdgl"
+        },
+        {
+          "index": "/interview/zdmlgl",
+          "name": "征订目录管理",
+          "belong": "zdgl"
+        },
+        {
+          "index": "/interview/marc21",
+          "name": "转MARC21",
+          "belong": "zdgl"
+        },
+        {
+          "index": "/interview/dcmarc",
+          "name": "定长数据转MARC",
+          "belong": "zdgl"
+        },
+        {
+          "index": "/interview/cbcx",
+          "name": "出版查询",
+          "belong": "zdgl"
+        }
+      ]
+    },
+    {
+      "subIndex": "ydgl",
+      "subtitle": "预订管理",
+      "menuItems": [
+        {
+          "index": "/interview/ydpcgl",
+          "name": "预订批次管理",
+          "belong": "ydgl"
+        },
+        {
+          "index": "/interview/ydgl",
+          "name": "预订管理",
+          "belong": "ydgl"
+        },
+        {
+          "index": "/interview/zdsmyd",
+          "name": "征订书目预订",
+          "belong": "ydgl"
+        }
+      ]
+    },
+    {
+      "subIndex": "ysgl",
+      "subtitle": "验收管理",
+      "menuItems": [
+        {
+          "index": "/interview/yspcgl",
+          "name": "验收批次管理",
+          "belong": "ysgl"
+        },
+        {
+          "index": "/interview/pcysgl",
+          "name": "批次验收管理",
+          "belong": "ysgl"
+        },
+        {
+          "index": "/interview/ydyscl",
+          "name": "预订验收处理",
+          "belong": "ysgl"
+        },
+        {
+          "index": "/interview/zjyscl",
+          "name": "直接验收处理",
+          "belong": "ysgl"
+        },
+        {
+          "index": "/interview/ksys",
+          "name": "快速验收",
+          "belong": "ysgl"
+        }
+      ]
+    },
+    {
+      "subIndex": "cftj",
+      "subtitle": "采访统计",
+      "menuItems": [
+        {
+          "index": "/interview/dgd",
+          "name": "订购单",
+          "belong": "cftj"
+        },
+        {
+          "index": "/interview/tdd",
+          "name": "退订单",
+          "belong": "cftj"
+        },
+        {
+          "index": "/interview/ysd",
+          "name": "验收单",
+          "belong": "cftj"
+        },
+        {
+          "index": "/interview/cqd",
+          "name": "催缺单",
+          "belong": "cftj"
+        },
+        {
+          "index": "/interview/gbccz",
+          "name": "个别财产帐",
+          "belong": "cftj"
+        },
+        {
+          "index": "/interview/ydfltj",
+          "name": "预订分类统计",
+          "belong": "cftj"
+        },
+        {
+          "index": "/interview/ysfltj",
+          "name": "验收分类统计",
+          "belong": "cftj"
+        },
+        {
+          "index": "/interview/zkccz",
+          "name": "总括财产帐",
+          "belong": "cftj"
+        },
+        {
+          "index": "/interview/dhqkfx",
+          "name": "到货情况分析",
+          "belong": "cftj"
+        },
+        {
+          "index": "/interview/sjzqfx",
+          "name": "上架周期分析",
+          "belong": "cftj"
+        },
+        {
+          "index": "/interview/cgzlfx",
+          "name": "采购质量分析",
+          "belong": "cftj"
+        }
+      ]
+    },
+    {
+      "subIndex": "cfcs",
+      "subtitle": "采访参数",
+      "menuItems": [
+        {
+          "index": "/interview/zchgl",
+          "name": "种次号管理",
+          "belong": "cfcs"
+        },
+        {
+          "index": "/interview/flztcgl",
+          "name": "分类主题词管理",
+          "belong": "cfcs"
+        }
+      ]
+    }
+  ],
+  "periodical": [
+    {
+      "subIndex": "qkcsgl",
+      "subtitle": "期刊藏书管理",
+      "menuItems": []
+    },
+    {
+      "subIndex": "qkjdgl",
+      "subtitle": "期刊记到管理",
+      "menuItems": [
+        {
+          "index": "/periodical/hdbkshs",
+          "name": "合订本快速回溯",
+          "belong": "qkjdgl"
+        },
+        {
+          "index": "/periodical/hxqk",
+          "name": "核心期刊",
+          "belong": "qkjdgl"
+        },
+        {
+          "index": "/periodical/qkhsz",
+          "name": "期刊回收站",
+          "belong": "qkjdgl"
+        },
+        {
+          "index": "/periodical/qkjdcl",
+          "name": "期刊记到处理",
+          "belong": "qkjdgl"
+        },
+        {
+          "index": "/periodical/qkzdzd",
+          "name": "期刊自动装订",
+          "belong": "qkjdgl"
+        },
+        {
+          "index": "/periodical/qkzjjd",
+          "name": "期刊直接记到",
+          "belong": "qkjdgl"
+        }
+      ]
+    },
+    {
+      "subIndex": "qktjbb",
+      "subtitle": "期刊统计报表",
+      "menuItems": [
+        {
+          "index": "/periodical/bmltj",
+          "name": "编目量统计",
+          "belong": "qktjbb"
+        },
+        {
+          "index": "/periodical/dgd",
+          "name": "订购单",
+          "belong": "qktjbb"
+        },
+        {
+          "index": "/periodical/qdfpb",
+          "name": "签到分配表",
+          "belong": "qktjbb"
+        },
+        {
+          "index": "/periodical/qkqdb",
+          "name": "期刊签到表",
+          "belong": "qktjbb"
+        }
+      ]
+    },
+    {
+      "subIndex": "qkydgl",
+      "subtitle": "期刊预订管理",
+      "menuItems": [
+        {
+          "index": "/periodical/qkccyd",
+          "name": "期刊查重处理",
+          "belong": "qkydgl"
+        },
+        {
+          "index": "/periodical/qkpcydgl",
+          "name": "期刊批次预订管理",
+          "belong": "qkydgl"
+        },
+        {
+          "index": "/periodical/qkydgl",
+          "name": "期刊预订管理",
+          "belong": "qkydgl"
+        },
+        {
+          "index": "/periodical/qkydpcgl",
+          "name": "期刊预订批次管理",
+          "belong": "qkydgl"
+        },
+        {
+          "index": "/periodical/qkzdsmyd",
+          "name": "期刊征订书目预订",
+          "belong": "qkydgl"
+        }
+      ]
+    },
+    {
+      "subIndex": "qkylgl",
+      "subtitle": "期刊阅览管理",
+      "menuItems": [
+        {
+          "index": "/periodical/ylgl",
+          "name": "阅览管理",
+          "belong": "qkylgl"
+        }
+      ]
+    },
+    {
+      "subIndex": "qkzdgl",
+      "subtitle": "期刊征订管理",
+      "menuItems": [
+        {
+          "index": "/periodical/qkbm",
+          "name": "期刊编目",
+          "belong": "qkzdgl"
+        },
+        {
+          "index": "/periodical/qkzdpc",
+          "name": "期刊征订批次",
+          "belong": "qkzdgl"
+        },
+        {
+          "index": "/periodical/zdmlgl",
+          "name": "征订目录管理",
+          "belong": "qkzdgl"
+        }
+      ]
+    }
+  ],
+  "settings": [
+    {
+      "subIndex": "xtcs",
+      "subtitle": "系统参数",
+      "menuItems": [
+        {
+          "index": "/settings/cbs",
+          "name": "出版社",
+          "belong": "xtcs"
+        },
+        {
+          "index": "/settings/cyg",
+          "name": "成员馆",
+          "belong": "xtcs"
+        },
+        {
+          "index": "/settings/czgl",
+          "name": "藏址管理",
+          "belong": "xtcs"
+        },
+        {
+          "index": "/settings/gys",
+          "name": "供应商",
+          "belong": "xtcs"
+        },
+        {
+          "index": "/settings/hbhl",
+          "name": "货币汇率",
+          "belong": "xtcs"
+        },
+        {
+          "index": "/settings/ipgl",
+          "name": "IP管理",
+          "belong": "xtcs"
+        },
+        {
+          "index": "/settings/kjjsz",
+          "name": "快捷键设置",
+          "belong": "xtcs"
+        },
+        {
+          "index": "/settings/ysgl",
+          "name": "预算管理",
+          "belong": "xtcs"
+        },
+        {
+          "index": "/settings/yslx",
+          "name": "预算类型",
+          "belong": "xtcs"
+        },
+        {
+          "index": "/settings/zfwq",
+          "name": "Z3950服务器",
+          "belong": "xtcs"
+        },
+        {
+          "index": "/settings/gcfpsz",
+          "name": "馆藏分配设置",
+          "belong": "xtcs"
+        }
+      ]
+    },
+    {
+      "subIndex": "xtqx",
+      "subtitle": "系统权限",
+      "menuItems": [
+        {
+          "index": "/settings/jsgl",
+          "name": "角色管理",
+          "belong": "xtqx"
+        },
+        {
+          "index": "/settings/xgmm",
+          "name": "修改密码",
+          "belong": "xtqx"
+        },
+        {
+          "index": "/settings/yhgl",
+          "name": "用户管理",
+          "belong": "xtqx"
+        }
+      ]
+    },
+    {
+      "subIndex": "xtrz",
+      "subtitle": "系统日记",
+      "menuItems": [
+        {
+          "index": "/settings/xtczrz",
+          "name": "系统操作日志",
+          "belong": "xtrz"
+        },
+        {
+          "index": "/settings/xtdlrz",
+          "name": "系统登录日志",
+          "belong": "xtrz"
+        }
+      ]
+    },
+    {
+      "subIndex": "jdgscs",
+      "subtitle": "机读格式参数",
+      "menuItems": [
+        {
+          "index": "/settings/marclx",
+          "name": "MARC类型",
+          "belong": "jdgscs"
+        },
+        {
+          "index": "/settings/wxlx",
+          "name": "文献类型",
+          "belong": "jdgscs"
+        },
+        {
+          "index": "/settings/fblx",
+          "name": "分编类型",
+          "belong": "jdgscs"
+        },
+        {
+          "index": "/settings/marcgz",
+          "name": "MARC规则",
+          "belong": "jdgscs"
+        },
+        {
+          "index": "/settings/marcmb",
+          "name": "MARC模板",
+          "belong": "jdgscs"
+        },
+        {
+          "index": "/settings/cjsy",
+          "name": "重建索引",
+          "belong": "jdgscs"
+        },
+        {
+          "index": "/settings/marctm",
+          "name": "MARC条目",
+          "belong": "jdgscs"
+        },
+        {
+          "index": "/settings/marcbz",
+          "name": "MARC帮助",
+          "belong": "jdgscs"
+        }
+      ]
+    },
+    {
+      "subIndex": "opaccs",
+      "subtitle": "webopac参数",
+      "menuItems": [
+        {
+          "index": "/settings/rmts",
+          "name": "热门图书",
+          "belong": "opaccs"
+        },
+        {
+          "index": "/settings/tsjg",
+          "name": "图书荐购",
+          "belong": "opaccs"
+        },
+        {
+          "index": "/settings/tstj",
+          "name": "图书推荐",
+          "belong": "opaccs"
+        },
+        {
+          "index": "/settings/pbsmk",
+          "name": "屏蔽书目库",
+          "belong": "opaccs"
+        },
+        {
+          "index": "/settings/dzts",
+          "name": "电子图书",
+          "belong": "opaccs"
+        },
+        {
+          "index": "/settings/wxswrzjk",
+          "name": "无线上网认证接口",
+          "belong": "opaccs"
+        }
+      ]
+    },
+    {
+      "subIndex": "grcs",
+      "subtitle": "个人参数",
+      "menuItems": [
+        {
+          "index": "/settings/mrcssz",
+          "name": "默认参数设置",
+          "belong": "grcs"
+        }
+      ]
+    },
+    {
+      "subIndex": "ltcs",
+      "subtitle": "流通参数",
+      "menuItems": [
+        {
+          "index": "/settings/dzlx",
+          "name": "读者类型",
+          "belong": "ltcs"
+        },
+        {
+          "index": "/settings/yjmb",
+          "name": "邮件模板",
+          "belong": "ltcs"
+        },
+        {
+          "index": "/settings/jqsd",
+          "name": "假期设定",
+          "belong": "ltcs"
+        },
+        {
+          "index": "/settings/yjsz",
+          "name": "邮件设置",
+          "belong": "ltcs"
+        },
+        {
+          "index": "/settings/jygz",
+          "name": "借阅规则",
+          "belong": "ltcs"
+        },
+        {
+          "index": "/settings/ltgz",
+          "name": "流通规则",
+          "belong": "ltcs"
+        },
+        {
+          "index": "/settings/ltlx",
+          "name": "流通类型",
+          "belong": "ltcs"
+        }
+      ]
+    }
+  ]
+}
